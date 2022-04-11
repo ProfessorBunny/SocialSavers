@@ -8,8 +8,8 @@ function Features() {
       <div className="container">
         <div className="row">
           <div className="col-lg-12">
-            <h2>HOW DOES IT WORK?</h2>
-            <div className="p-heading p-large">
+            <h2 style={{fontFamily: "Poppins"}}>How does it work?</h2>
+            <div className="p-heading p-large" style={{fontFamily: "Poppins"}}>
               Social Savers is designed for providing the best disocunts on
               different goods by removing the middleman between manufacturers
               and buyers
@@ -28,7 +28,7 @@ function Features() {
                 aria-controls="tab-1"
                 aria-selected="true"
               >
-                <i className="fas fa-cog"></i>GATHERING
+                <i className="fas fa-cog"></i><span style={{fontFamily: "Poppins"}}>GATHERING</span>
               </a>
             </li>
             <li className="nav-item">
@@ -41,7 +41,7 @@ function Features() {
                 aria-controls="tab-2"
                 aria-selected="false"
               >
-                <i className="fas fa-binoculars"></i>PROMOTING
+                <i className="fas fa-binoculars"></i><span style={{fontFamily: "Poppins"}}>PROMOTING</span>
               </a>
             </li>
             <li className="nav-item">
@@ -54,7 +54,7 @@ function Features() {
                 aria-controls="tab-3"
                 aria-selected="false"
               >
-                <i className="fas fa-search"></i>SELLING
+                <i className="fas fa-search"></i><span style={{fontFamily: "Poppins"}}>SELLING</span>
               </a>
             </li>
           </ul>
@@ -72,7 +72,7 @@ function Features() {
                     <div className="card left-pane first">
                       <div className="card-body">
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             We will work together with different manufacturers
                             to provide you with best discounts
                           </p>
@@ -85,7 +85,7 @@ function Features() {
                     <div className="card left-pane">
                       <div className="card-body">
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             In return they will get a bulk of orders from our
                             customers
                           </p>
@@ -108,7 +108,7 @@ function Features() {
                           <i className="far fa-calendar-check"></i>
                         </div>
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             Manufactures can offer higher stages of discounts
                             for achieving set targets within the time frame
                           </p>
@@ -121,7 +121,7 @@ function Features() {
                           <i className="fas fa-chart-line"></i>
                         </div>
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             Manufacturers will upload the products with possible
                             level of discounts higher than available anywhere
                             else
@@ -146,7 +146,7 @@ function Features() {
                     <div className="card left-pane first">
                       <div className="card-body">
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             Find your favourite influencer and check out what
                             wonderful new promotion they are campaigning this
                             week
@@ -160,7 +160,7 @@ function Features() {
                     <div className="card left-pane">
                       <div className="card-body">
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             See what promotion is trending and check out the
                             influencers profile for their promotional post to
                             see how many others have already signed up
@@ -184,7 +184,7 @@ function Features() {
                           <i className="fas fa-hashtag"></i>
                         </div>
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             Influencers will launch campaign using their social
                             media platform to attract a large pool of people to
                             buy a product as a group
@@ -198,7 +198,7 @@ function Features() {
                           <i className="fas fa-user-clock"></i>
                         </div>
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             The influencers can decide to wait longer if there
                             is a higher discount available when more people join
                             the campaign
@@ -223,7 +223,7 @@ function Features() {
                     <div className="card left-pane first">
                       <div className="card-body">
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             Buyers will have to wait until the set target is
                             achieved, until then they can track the progress of
                             their order through our app
@@ -237,7 +237,7 @@ function Features() {
                     <div className="card left-pane">
                       <div className="card-body">
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             If the set target is not achieved within the
                             time frame then every buyer will be refunded with the full amount
                           </p>
@@ -260,7 +260,7 @@ function Features() {
                           <i className="fas fa-bell"></i>
                         </div>
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             Once the set target is achieved all the buyers will 
                             be notified about their purchase being successful
                           </p>
@@ -273,7 +273,7 @@ function Features() {
                           <i className="fas fa-door-open"></i>
                         </div>
                         <div className="text-wrapper">
-                          <p>
+                          <p style={{fontFamily: "Poppins"}}>
                             After your purchase being successful we will ship the order to your doorstep
                           </p>
                         </div>

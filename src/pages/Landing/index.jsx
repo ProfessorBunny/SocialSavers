@@ -31,13 +31,13 @@ function Landing(props) {
 
   return (
     <>
-      <Loader />
+      {/* <Loader /> */}
       <Navbar />
       <Header />
       <Features />
       <DetailOne />
       <DetailTwo />
-      <Tracker />
+      {/* <Tracker /> */}
       <Video />
       {/* <Screenshots /> */}
       <Download />

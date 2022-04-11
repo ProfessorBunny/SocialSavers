@@ -26,23 +26,23 @@ function Header() {
           <div className="row">
             <div className="col-lg-6">
               <div className="text-container">
-                <h3>
+                <h3 style={{fontFamily: "Poppins"}}>
                   ARE YOU LOOKING FOR BEST DISCOUNTS &nbsp;
                   <span id="js-rotating">
                     ON PRODUCTS ?, AT ONE PLACE ?, ALL ACROSS UK ?
                   </span>
                 </h3>
-                <p className="p-large">
+                <p className="p-large" style={{fontFamily: "Poppins"}}>
                   Well look no further because Social savers offers them for
                   products all over the UK. Download now to sign up to our new
                   and exciting deals and enjoy our premium subscription service
                   for a week!
                 </p>
                 <a className="btn-solid-lg page-scroll" href="#your-link">
-                  <i className="fab fa-apple"></i>APP STORE
+                  <i className="fab fa-google-play"></i><span style={{fontFamily: "Poppins"}}>PLAY STORE</span>
                 </a>
-                <a className="btn-solid-lg page-scroll" href="#your-link">
-                  <i className="fab fa-google-play"></i>PLAY STORE
+                <a className="btn-solid-lg page-scroll">
+                  <i className="fab fa-apple" ></i><span style={{fontFamily: "Poppins"}}>Coming Soon</span>
                 </a>
               </div>
             </div>

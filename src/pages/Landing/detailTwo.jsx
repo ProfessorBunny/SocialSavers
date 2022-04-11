@@ -9,8 +9,8 @@ function DetailTwo() {
           <div className="row">
             <div className="col-lg-6">
               <div className="text-container">
-                <h2>Buy & Recieve</h2>
-                <p>
+                <h2 style={{fontFamily: "Poppins"}}>Buy & Recieve</h2>
+                <p style={{fontFamily: "Poppins"}}>
                   As soon as you join our promotion sale you can confirm your
                   slot in the campaign by finishing your payment <br />
                   After successfull campaign we will deliver your order right at
@@ -18,7 +18,7 @@ function DetailTwo() {
                 </p>
                 <Popup
                   trigger={
-                    <button className="btn-solid-reg"> Show More</button>
+                    <button className="btn-solid-reg" style={{fontFamily: "Poppins"}}> Show More</button>
                   }
                   modal
                 >

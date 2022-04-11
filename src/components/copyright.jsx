@@ -6,7 +6,7 @@ function Copyright(props) {
       <div className="container">
         <div className="row">
           <div className="col-lg-12">
-            <p className="p-small">Copyright © Social Savers - Mobile App</p>
+            <p className="p-small" style={{fontFamily: "Poppins"}}>Copyright © Social Savers</p>
           </div>
         </div>
       </div>

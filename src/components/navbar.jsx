@@ -41,13 +41,13 @@ function Navbar() {
 
   return (
     <nav className="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
-      <a className="navbar-brand logo-text page-scroll" href="index.html">
+      <a className="navbar-brand logo-text page-scroll" href="index.html" style={{fontFamily: "Poppins"}}>
         Social
       </a>
       <a className="navbar-brand logo-image" href="index.html">
         <LogoSvg />
       </a>
-      <a className="navbar-brand logo-text page-scroll" href="index.html">
+      <a className="navbar-brand logo-text page-scroll" href="index.html" style={{fontFamily: "Poppins"}}>
         Savers
       </a>
 
@@ -67,22 +67,22 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
-            <a className="nav-link page-scroll" href="#header">
+            <a className="nav-link page-scroll" href="#header" style={{fontFamily: "Poppins"}}>
               HOME <span className="sr-only">(current)</span>
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link page-scroll" href="#features">
+            <a className="nav-link page-scroll" href="#features" style={{fontFamily: "Poppins"}}>
               FEATURES
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link page-scroll" href="#details">
+            <a className="nav-link page-scroll" href="#details" style={{fontFamily: "Poppins"}}>
               DETAILS
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link page-scroll" href="#preview">
+            <a className="nav-link page-scroll" href="#preview" style={{fontFamily: "Poppins"}}>
               PREVIEW
             </a>
           </li>
@@ -96,7 +96,7 @@ function Navbar() {
           <span className="fa-stack">
             <a href="#your-link">
               <i className="fas fa-circle fa-stack-2x"></i>
-              <i className="fab fa-facebook-f fa-stack-1x"></i>
+              <i className="fab fa-instagram fa-stack-1x"></i>
             </a>
           </span>
           <span className="fa-stack">

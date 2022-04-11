@@ -13,8 +13,8 @@ function DetailOne() {
             </div>
             <div className="col-lg-6">
               <div className="text-container">
-                <h2>Browse & Select</h2>
-                <p>
+                <h2 style={{fontFamily: "Poppins"}}>Browse & Select</h2>
+                <p style={{fontFamily: "Poppins"}}>
                   Browse our endless supply of deals for UK products with our
                   tailored deal of the day page that will highlight our best
                   sales <br />
@@ -23,7 +23,7 @@ function DetailOne() {
                 </p>
                 <Popup
                   trigger={
-                    <button className="btn-solid-reg"> Show More</button>
+                    <button className="btn-solid-reg" style={{fontFamily: "Poppins"}}> Show More</button>
                   }
                   modal
                 >

@@ -7,10 +7,9 @@ function Footer() {
         <div className="row">
           <div className="col-md-4">
             <div className="footer-col">
-              <h4>About Leno</h4>
+              <h4>About Social Savers</h4>
               <p>
-                We're passionate about creating the best mobile apps for
-                personal development
+               We're passionate about providing you best promotions on different products all over the UK
               </p>
             </div>
           </div>

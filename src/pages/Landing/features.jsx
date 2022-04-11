@@ -12,7 +12,7 @@ function Features() {
             <div className="p-heading p-large">
               Social Savers is designed for providing the best disocunts on
               different goods by removing the middleman between manufacturers
-              and buyers.
+              and buyers
             </div>
           </div>
         </div>
@@ -78,7 +78,7 @@ function Features() {
                           </p>
                         </div>
                         <div className="card-icon">
-                          <i className="far fa-compass"></i>
+                          <i className="fas fa-people-carry"></i>
                         </div>
                       </div>
                     </div>
@@ -91,7 +91,7 @@ function Features() {
                           </p>
                         </div>
                         <div className="card-icon">
-                          <i className="far fa-file-code"></i>
+                          <i className="fas fa-coins"></i>
                         </div>
                       </div>
                     </div>
@@ -110,7 +110,7 @@ function Features() {
                         <div className="text-wrapper">
                           <p>
                             Manufactures can offer higher stages of discounts
-                            for achieving set targets within the time frame.
+                            for achieving set targets within the time frame
                           </p>
                         </div>
                       </div>
@@ -118,13 +118,13 @@ function Features() {
                     <div className="card right-pane">
                       <div className="card-body">
                         <div className="card-icon">
-                          <i className="far fa-bookmark"></i>
+                          <i className="fas fa-chart-line"></i>
                         </div>
                         <div className="text-wrapper">
                           <p>
                             Manufacturers will upload the products with possible
                             level of discounts higher than available anywhere
-                            else.
+                            else
                           </p>
                         </div>
                       </div>
@@ -149,11 +149,11 @@ function Features() {
                           <p>
                             Find your favourite influencer and check out what
                             wonderful new promotion they are campaigning this
-                            week.
+                            week
                           </p>
                         </div>
                         <div className="card-icon">
-                          <i className="far fa-compass"></i>
+                          <i className="fas fa-users"></i>
                         </div>
                       </div>
                     </div>
@@ -163,11 +163,11 @@ function Features() {
                           <p>
                             See what promotion is trending and check out the
                             influencers profile for their promotional post to
-                            see how many others have already signed up.
+                            see how many others have already signed up
                           </p>
                         </div>
                         <div className="card-icon">
-                          <i className="far fa-file-code"></i>
+                          <i className="fas fa-search"></i>
                         </div>
                       </div>
                     </div>
@@ -181,13 +181,13 @@ function Features() {
                     <div className="card right-pane first">
                       <div className="card-body">
                         <div className="card-icon">
-                          <i className="far fa-calendar-check"></i>
+                          <i className="fas fa-hashtag"></i>
                         </div>
                         <div className="text-wrapper">
                           <p>
                             Influencers will launch campaign using their social
                             media platform to attract a large pool of people to
-                            buy a product as a group.
+                            buy a product as a group
                           </p>
                         </div>
                       </div>
@@ -195,13 +195,13 @@ function Features() {
                     <div className="card right-pane">
                       <div className="card-body">
                         <div className="card-icon">
-                          <i className="far fa-bookmark"></i>
+                          <i className="fas fa-user-clock"></i>
                         </div>
                         <div className="text-wrapper">
                           <p>
                             The influencers can decide to wait longer if there
                             is a higher discount available when more people join
-                            the campaign.
+                            the campaign
                           </p>
                         </div>
                       </div>
@@ -226,11 +226,11 @@ function Features() {
                           <p>
                             Buyers will have to wait until the set target is
                             achieved, until then they can track the progress of
-                            their order through our app.
+                            their order through our app
                           </p>
                         </div>
                         <div className="card-icon">
-                          <i className="far fa-compass"></i>
+                          <i className="far fa-calendar-alt"></i>
                         </div>
                       </div>
                     </div>
@@ -238,12 +238,12 @@ function Features() {
                       <div className="card-body">
                         <div className="text-wrapper">
                           <p>
-                            In return they will get a bulk of orders from our
-                            customers.
+                            If the set target is not achieved within the
+                            time frame then every buyer will be refunded with the full amount
                           </p>
                         </div>
                         <div className="card-icon">
-                          <i className="far fa-file-code"></i>
+                          <i className="fas fa-hand-holding-usd"></i>
                         </div>
                       </div>
                     </div>
@@ -257,12 +257,12 @@ function Features() {
                     <div className="card right-pane first">
                       <div className="card-body">
                         <div className="card-icon">
-                          <i className="far fa-calendar-check"></i>
+                          <i className="fas fa-bell"></i>
                         </div>
                         <div className="text-wrapper">
                           <p>
-                            Manufactures can offer higher stages of discounts
-                            for achieving set targets within the time frame.
+                            Once the set target is achieved all the buyers will 
+                            be notified about their purchase being successful
                           </p>
                         </div>
                       </div>
@@ -270,13 +270,11 @@ function Features() {
                     <div className="card right-pane">
                       <div className="card-body">
                         <div className="card-icon">
-                          <i className="far fa-bookmark"></i>
+                          <i className="fas fa-door-open"></i>
                         </div>
                         <div className="text-wrapper">
                           <p>
-                            Manufacturers will upload the products with possible
-                            level of discounts higher than available anywhere
-                            else.
+                            After your purchase being successful we will ship the order to your doorstep
                           </p>
                         </div>
                       </div>

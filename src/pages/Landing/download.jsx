@@ -11,7 +11,7 @@ function Download() {
               <p className="p-large">
                 You are only a few clicks away from getting a new gaming console
                 or trendy jacket at the best price out there! Download now to
-                save more by saving together.
+                save more by saving together
               </p>
               <a className="btn-solid-lg" href="#your-link">
                 <i className="fab fa-apple"></i>APP STORE

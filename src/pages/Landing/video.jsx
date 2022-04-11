@@ -9,7 +9,7 @@ function Video(props) {
           <div className="col-lg-12">
             <h2>PREVIEW</h2>
             <div className="p-heading p-large">
-              Still not sure how we can help you? Then tap below to know more.
+              Still not sure how we can help you?<br></br> Then tap below to know more
             </div>
           </div>
         </div>

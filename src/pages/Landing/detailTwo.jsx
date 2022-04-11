@@ -12,7 +12,7 @@ function DetailTwo() {
                 <h2>Buy & Recieve</h2>
                 <p>
                   As soon as you join our promotion sale you can confirm your
-                  slot in the campaign by finishing your payment. <br />
+                  slot in the campaign by finishing your payment <br />
                   After successfull campaign we will deliver your order right at
                   your doorstep.
                 </p>
@@ -36,6 +36,7 @@ function DetailTwo() {
                         <div class="col-lg-4">
                           <img
                             class="img-fluid"
+                            style={{height:"80%"}}
                             src="images/checkout.png"
                             alt="alternative"
                           />
@@ -66,13 +67,13 @@ function DetailTwo() {
                           <table>
                             <tr>
                               <td class="icon-cell">
-                                <i class="fas fa-bullhorn"></i>
+                                <i class="fas fa-hand-holding-usd"></i>
                               </td>
                               <td>Extra Discount on Your First Order</td>
                             </tr>
                             <tr>
                               <td class="icon-cell">
-                                <i class="fas fa-image"></i>
+                                <i class="far fa-credit-card"></i>
                               </td>
                               <td>
                                 All Major Cards Accepted & EMI Options Available
@@ -80,19 +81,19 @@ function DetailTwo() {
                             </tr>
                             <tr>
                               <td class="icon-cell">
-                                <i class="fas fa-desktop"></i>
+                                <i class="fas fa-bell"></i>
                               </td>
                               <td>Notified After Campaign is Successfull</td>
                             </tr>
                             <tr>
                               <td class="icon-cell">
-                                <i class="fas fa-bullhorn"></i>
+                                <i class="fas fa-truck-moving"></i>
                               </td>
                               <td>Track Your Order</td>
                             </tr>
                             <tr>
                               <td class="icon-cell">
-                                <i class="fas fa-code"></i>
+                                <i class="fas fa-gift"></i>
                               </td>
                               <td>Doorstep Delivery</td>
                             </tr>
@@ -101,6 +102,7 @@ function DetailTwo() {
                         <div class="col-lg-4">
                           <img
                             class="img-fluid"
+                            style={{height:"80%"}}
                             src="images/banner.png"
                             alt="alternative"
                           />

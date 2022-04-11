@@ -17,7 +17,7 @@ function DetailOne() {
                 <p>
                   Browse our endless supply of deals for UK products with our
                   tailored deal of the day page that will highlight our best
-                  sales. <br />
+                  sales <br />
                   After finding the product you want, just sign up to our group
                   promotion sale
                 </p>
@@ -41,6 +41,7 @@ function DetailOne() {
                         <div className="col-lg-4">
                           <img
                             className="img-fluid"
+                            style={{height:"80%"}}
                             src="images/home.png"
                             alt="alternative"
                           />
@@ -72,31 +73,31 @@ function DetailOne() {
                           <table>
                             <tr>
                               <td className="icon-cell">
-                                <i className="fas fa-bullhorn"></i>
+                                <i className="fas fa-mobile-alt"></i>
                               </td>
                               <td>Interactive UI</td>
                             </tr>
                             <tr>
                               <td className="icon-cell">
-                                <i className="fas fa-image"></i>
+                                <i className="fas fa-tag"></i>
                               </td>
                               <td>Huge Discounts on Different Prodcuts</td>
                             </tr>
                             <tr>
                               <td className="icon-cell">
-                                <i className="fab fa-font-awesome-flag"></i>
+                                <i className="far fa-calendar-alt"></i>
                               </td>
                               <td>New and Best Deals Highlighted Everyday</td>
                             </tr>
                             <tr>
                               <td className="icon-cell">
-                                <i className="fas fa-envelope"></i>
+                                <i className="fas fa-clipboard-check"></i>
                               </td>
                               <td>Keep Track of your selected products</td>
                             </tr>
                             <tr>
                               <td className="icon-cell">
-                                <i className="fab fa-font-awesome-flag"></i>
+                                <i className="fas fa-id-card"></i>
                               </td>
                               <td>
                                 Checkout Your Favourite Influencers Page For
@@ -108,6 +109,7 @@ function DetailOne() {
                         <div className="col-lg-4">
                           <img
                             className="img-fluid"
+                            style={{height:"80%"}}
                             src="images/product.png"
                             alt="alternative"
                           />

@@ -45,28 +45,28 @@ function Tracker() {
           <div className="col-lg-12">
             <div id="counter">
               <div className="cell">
-                <div className="counter-value number-count" data-count="231">
+                <div className="counter-value number-count" data-count="240">
                   24
                 </div>
                 <p className="counter-info">Happy Users</p>
               </div>
               <div className="cell">
-                <div className="counter-value number-count" data-count="85">
-                  42
+                <div className="counter-value number-count" data-count="160">
+                  16
                 </div>
-                <p className="counter-info">Issues Solved</p>
+                <p className="counter-info">Products Listed</p>
               </div>
               <div className="cell">
-                <div className="counter-value number-count" data-count="59">
-                  16
+                <div className="counter-value number-count" data-count="198">
+                  20
                 </div>
                 <p className="counter-info">Good Reviews</p>
               </div>
               <div className="cell">
-                <div className="counter-value number-count" data-count="127">
-                  1
+                <div className="counter-value number-count" data-count="337">
+                  34
                 </div>
-                <p className="counter-info">Case Studies</p>
+                <p className="counter-info">Products Delivered</p>
               </div>
             </div>
           </div>

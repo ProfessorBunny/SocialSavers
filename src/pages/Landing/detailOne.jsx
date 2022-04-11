@@ -41,7 +41,7 @@ function DetailOne() {
                         <div className="col-lg-4">
                           <img
                             className="img-fluid"
-                            style={{height:"80%"}}
+                            style={{height:"85%"}}
                             src="images/home.png"
                             alt="alternative"
                           />
@@ -109,7 +109,7 @@ function DetailOne() {
                         <div className="col-lg-4">
                           <img
                             className="img-fluid"
-                            style={{height:"80%"}}
+                            style={{height:"85%"}}
                             src="images/product.png"
                             alt="alternative"
                           />

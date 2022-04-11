@@ -36,7 +36,7 @@ function DetailTwo() {
                         <div class="col-lg-4">
                           <img
                             class="img-fluid"
-                            style={{height:"80%"}}
+                            style={{height:"85%"}}
                             src="images/checkout.png"
                             alt="alternative"
                           />
@@ -102,7 +102,7 @@ function DetailTwo() {
                         <div class="col-lg-4">
                           <img
                             class="img-fluid"
-                            style={{height:"80%"}}
+                            style={{height:"85%"}}
                             src="images/banner.png"
                             alt="alternative"
                           />

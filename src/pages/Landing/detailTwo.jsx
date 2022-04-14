@@ -25,7 +25,7 @@ function DetailTwo() {
                   your doorstep.
                 </p>
                 <button onClick={() => setOpen(true)} className="btn-solid-reg" style={{ fontFamily: "Poppins" }}> Show More</button>
-                <Dialog maxWidth={'md'} open={open} >
+                <Dialog maxWidth={'lg'} open={open} >
                   <DialogTitle sx={{ m: 0, p: 2, backgroundColor: '#2f2c3d' }}>
                     <IconButton
                       onClick={() => setOpen(false)}
@@ -46,7 +46,7 @@ function DetailTwo() {
                       </Grid>
                       <Grid item xs={12} sm={6} md={6} style={{ justifyContent: 'center' }}>
                         <Box>
-                          <h3>Buy & Recieve</h3>
+                          <h4>Buy & Recieve</h4>
                           <Box style={{height: '3px', width: '20%', backgroundColor: '#ff9200', marginBottom: '4%'}}></Box>
                           <p>
                             With our premium subscription you can join as many

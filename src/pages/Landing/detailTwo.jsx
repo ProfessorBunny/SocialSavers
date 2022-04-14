@@ -9,11 +9,11 @@ function DetailTwo() {
           <div className="row">
             <div className="col-lg-6">
               <div className="text-container">
-                <h2 style={{fontFamily: "Poppins"}}>Buy & Recieve</h2>
+                <h2 style={{fontFamily: "Poppins"}}>Buy & Receive</h2>
                 <p style={{fontFamily: "Poppins"}}>
                   As soon as you join our promotion sale you can confirm your
                   slot in the campaign by finishing your payment <br />
-                  After successfull campaign we will deliver your order right at
+                  After successful campaign we will deliver your order right at
                   your doorstep.
                 </p>
                 <Popup
@@ -60,9 +60,9 @@ function DetailTwo() {
 
                           <h4>User Feedback</h4>
                           <p>
-                            You get prodcuts with huge discounts on EMI and they
+                            "You get products with huge discounts on EMI and they
                             are delivered right at your doorstep, can't get
-                            better than that
+                            better than that"
                           </p>
                           <table>
                             <tr>

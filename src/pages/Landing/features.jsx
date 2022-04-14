@@ -10,9 +10,8 @@ function Features() {
           <div className="col-lg-12">
             <h2 style={{fontFamily: "Poppins"}}>How does it work?</h2>
             <div className="p-heading p-large" style={{fontFamily: "Poppins"}}>
-              Social Savers is designed for providing the best disocunts on
-              different goods by removing the middleman between manufacturers
-              and buyers
+            Social savers is designed for providing the best discounts on all kinds of products by taking advantage of group buying
+             and purchasing left over merchandise from numerous corporations and local stores across the UK.
             </div>
           </div>
         </div>
@@ -28,7 +27,7 @@ function Features() {
                 aria-controls="tab-1"
                 aria-selected="true"
               >
-                <i className="fas fa-cog"></i><span style={{fontFamily: "Poppins"}}>GATHERING</span>
+                <i className="fas fa-cog"></i><span style={{fontFamily: "Poppins"}}>PRODUCTS</span>
               </a>
             </li>
             <li className="nav-item">
@@ -73,7 +72,7 @@ function Features() {
                       <div className="card-body">
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
-                            We will work together with different manufacturers
+                            We will work together with different Suppliers
                             to provide you with best discounts
                           </p>
                         </div>
@@ -109,8 +108,8 @@ function Features() {
                         </div>
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
-                            Manufactures can offer higher stages of discounts
-                            for achieving set targets within the time frame
+                          Suppliers can offer higher stages of discounts
+                            for achieving set targets within given time frames
                           </p>
                         </div>
                       </div>
@@ -122,9 +121,8 @@ function Features() {
                         </div>
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
-                            Manufacturers will upload the products with possible
-                            level of discounts higher than available anywhere
-                            else
+                          Suppliers agree to bigger and better discounts not normally 
+                          available anywhere else because of bulk buying
                           </p>
                         </div>
                       </div>
@@ -185,9 +183,9 @@ function Features() {
                         </div>
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
-                            Influencers will launch campaign using their social
-                            media platform to attract a large pool of people to
-                            buy a product as a group
+                          Influencers launch campaigns using their social media 
+                          platform to attract a large pool of consumers to 
+                          purchase a product as a group
                           </p>
                         </div>
                       </div>
@@ -199,9 +197,8 @@ function Features() {
                         </div>
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
-                            The influencers can decide to wait longer if there
-                            is a higher discount available when more people join
-                            the campaign
+                          Exciting new deals of the day up for grabs every day showing 
+                          the best promotion available on our platform
                           </p>
                         </div>
                       </div>
@@ -224,9 +221,9 @@ function Features() {
                       <div className="card-body">
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
-                            Buyers will have to wait until the set target is
-                            achieved, until then they can track the progress of
-                            their order through our app
+                          Once signed up, consumers must wait until the campaign reaches its goal 
+                          to raise a set amount of buyers. 
+                          Until then, they can track the progress of the campaign through our app
                           </p>
                         </div>
                         <div className="card-icon">
@@ -274,7 +271,7 @@ function Features() {
                         </div>
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
-                            After your purchase being successful we will ship the order to your doorstep
+                          After the campaign is successful, the product is shipped on the doorstep of every consumer
                           </p>
                         </div>
                       </div>

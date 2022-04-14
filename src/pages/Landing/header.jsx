@@ -20,23 +20,23 @@ function Header() {
   });
 
   return (
-    <header id="header" className="header">
-      <div className="header-content">
+    <header id="header" className="header" >
+      <div className="header-content" style={{paddingTop:'9.5rem'}}>
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
               <div className="text-container">
                 <h3 style={{fontFamily: "Poppins"}}>
-                  ARE YOU LOOKING FOR BEST DISCOUNTS &nbsp;
+                  ARE YOU LOOKING FOR THE BEST DISCOUNTS &nbsp;
                   <span id="js-rotating">
                     ON PRODUCTS ?, AT ONE PLACE ?, ALL ACROSS UK ?
                   </span>
                 </h3>
                 <p className="p-large" style={{fontFamily: "Poppins"}}>
-                  Well look no further because Social savers offers them for
-                  products all over the UK. Download now to sign up to our new
-                  and exciting deals and enjoy our premium subscription service
-                  for a week!
+                  Well look no further because Social savers offers them for different
+                  products all over the UK. You are only a few clicks away from getting a new gaming console
+                or trendy jacket at the best price out there. 
+                Signing up now allows you to view our deal of the day and enjoy our week long premium subscription service.
                 </p>
                 <a className="btn-solid-lg page-scroll" href="#your-link">
                   <i className="fab fa-google-play"></i><span style={{fontFamily: "Poppins"}}>PLAY STORE</span>

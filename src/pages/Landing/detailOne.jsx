@@ -51,13 +51,12 @@ function DetailOne() {
                           <hr />
                           <p>
                             Whether you are looking to buy electronic devices
-                            for house cleaning products you can find daily new
+                            or house cleaning products you can find daily new
                             deals here that will surprise you
                           </p>
                           <p>
-                            After finding the product you are looking for, just
-                            sign up for our group promotion sale for that
-                            product
+                          After finding the product you are looking for, just sign up for our
+                           group promotion campaign for that product
                           </p>
                           <p>
                             You can track the progress of the campaign through
@@ -67,8 +66,8 @@ function DetailOne() {
 
                           <h4>User Feedback</h4>
                           <p>
-                            You should definitely give it a try to get products
-                            with best discounts
+                            "You should definitely give it a try to get products
+                            with best discounts"
                           </p>
                           <table>
                             <tr>

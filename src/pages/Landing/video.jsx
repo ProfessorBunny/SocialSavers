@@ -20,9 +20,8 @@ function Video(props) {
                 <ReactPlayer
                   pip
                   playsinline
-                  loop
                   controls
-                  url="https://cdn.biteable.com/social/renders/9654440/5743078/2810683/b9fb2327748ae6db515b5e8e1d955e7b79da5946.mp4"
+                  url="https://res.cloudinary.com/dgolpkc2e/video/upload/v1649967222/promo_ojrp1u.mp4"
                 />
               </div>
             </div>

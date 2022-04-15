@@ -16,7 +16,7 @@ function Download() {
                   and exciting deals and enjoy our premium subscription service
                   for a week!
               </p>
-              <a className="btn-solid-lg" href="#your-link">
+              <a className="btn-solid-lg" href="https://play.google.com/store/apps/details?id=com.inittowinit.socialsavers">
                 <i className="fab fa-google-play"></i><span style={{fontFamily: "Poppins"}}>PLAY STORE</span>
               </a>
               <a className="btn-solid-lg">

@@ -38,7 +38,7 @@ function Header() {
                 or trendy jacket at the best price out there. 
                 Signing up now allows you to view our deal of the day and enjoy our week long premium subscription service.
                 </p>
-                <a className="btn-solid-lg page-scroll" href="#your-link">
+                <a className="btn-solid-lg page-scroll" href="https://play.google.com/store/apps/details?id=com.inittowinit.socialsavers">
                   <i className="fab fa-google-play"></i><span style={{fontFamily: "Poppins"}}>PLAY STORE</span>
                 </a>
                 <a className="btn-solid-lg page-scroll">

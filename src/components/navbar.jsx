@@ -94,13 +94,13 @@ function Navbar() {
         </ul>
         <span className="nav-item social-icons">
           <span className="fa-stack">
-            <a href="#your-link">
+            <a href="https://www.instagram.com/socialsaversapp">
               <i className="fas fa-circle fa-stack-2x"></i>
               <i className="fab fa-instagram fa-stack-1x"></i>
             </a>
           </span>
           <span className="fa-stack">
-            <a href="#your-link">
+            <a href="https://twitter.com/socialsaversapp">
               <i className="fas fa-circle fa-stack-2x"></i>
               <i className="fab fa-twitter fa-stack-1x"></i>
             </a>

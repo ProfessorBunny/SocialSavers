@@ -21,7 +21,7 @@ function Video(props) {
                   pip
                   playsinline
                   controls
-                  url="https://res.cloudinary.com/dgolpkc2e/video/upload/v1649967222/promo_ojrp1u.mp4"
+                  url="https://res.cloudinary.com/socialsavers/video/upload/v1650281194/Social_Savers.mp4"
                 />
               </div>
             </div>

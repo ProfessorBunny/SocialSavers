@@ -222,8 +222,7 @@ function Features() {
                         <div className="text-wrapper">
                           <p style={{fontFamily: "Poppins"}}>
                           Once signed up, consumers must wait until the campaign reaches its goal 
-                          to raise a set amount of buyers. 
-                          Until then, they can track the progress of the campaign through our app
+                          to raise a set amount of buyers.
                           </p>
                         </div>
                         <div className="card-icon">
